@@ -4,7 +4,7 @@ import 'firebase/firebase'
 import 'firebase/storage'
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAx-oTzXJdZQLT-mgavBvpvh2IsaLu5o2Y",
+ apiKey: "AIzaSyAx-oTzXJdZQLT-mgavBvpvh2IsaLu5o2Y",
   authDomain: "olxclone-c8491.firebaseapp.com",
   projectId: "olxclone-c8491",
   storageBucket: "olxclone-c8491.appspot.com",
